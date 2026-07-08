@@ -5,6 +5,9 @@ This work stems from a final-year research project at Polytech Nantes Engineerin
 The project was carried out with my peers Théo Masselot and Loïc Weber, focusing on the use of Large Language Models (LLMs) as time-series classifiers, specifically for human activity time-series data (HAR).
 
 Originally developed on the university’s GitLab, this is a personal copy shared here for reference.
+
+Our report is is the "rapport.pdf" file.
+
 # Setup
 
 ## Files to download
