@@ -6,7 +6,7 @@ The project was carried out with my peers Théo Masselot and Loïc Weber, focusi
 
 Originally developed on the university’s GitLab, this is a personal copy shared here for reference.
 
-Our report is is the "rapport.pdf" file.
+Our report is is the "Rapport.pdf" file.
 
 # Setup
 
